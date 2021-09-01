@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=conn.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=conn.SchDoc|FileName=core_app.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=conn.SchDoc|FileName=core_pwr.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=conn.SchDoc|FileName=peroherals.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=conn.SchDoc|FileName=power.SchDoc|SheetNumber=3
