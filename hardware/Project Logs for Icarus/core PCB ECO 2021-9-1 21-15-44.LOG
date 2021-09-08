@@ -1,0 +1,128 @@
+Removed Member From Class: ClassName=core_app Member=C48
+Removed Member From Class: ClassName=core_pwr Member=C48
+Removed Member From Class: ClassName=core_app Member=C49
+Removed Member From Class: ClassName=core_pwr Member=C49
+Removed Member From Class: ClassName=core_pwr Member=C50
+Removed Member From Class: ClassName=core_pwr Member=C51
+Removed Member From Class: ClassName=core_pwr Member=C52
+Removed Member From Class: ClassName=core_pwr Member=C53
+Removed Member From Class: ClassName=power Member=C53
+Removed Member From Class: ClassName=core_pwr Member=C54
+Removed Member From Class: ClassName=power Member=C54
+Removed Member From Class: ClassName=core_pwr Member=C55
+Removed Member From Class: ClassName=power Member=C55
+Removed Member From Class: ClassName=core_pwr Member=C56
+Removed Member From Class: ClassName=power Member=C56
+Removed Member From Class: ClassName=core_pwr Member=C57
+Removed Member From Class: ClassName=power Member=C57
+Removed Member From Class: ClassName=conn Member=R41
+Removed Member From Class: ClassName=core_app Member=R41
+Removed Member From Class: ClassName=core_pwr Member=R41
+Removed Member From Class: ClassName=power Member=R41
+Removed Member From Class: ClassName=conn Member=R42
+Removed Member From Class: ClassName=core_app Member=R42
+Removed Member From Class: ClassName=core_pwr Member=R42
+Removed Member From Class: ClassName=power Member=R42
+Added Component: Designator=LED1(LED0402-RD)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "TOGIALED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TJ-S1005CL4T5ALC6B-A5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C917189"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TJ-S1005CL4T5ALC6B-A5"; VariantName = "[No Variations]"
+Added Component: Designator=LED2(LED0402-RD)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "TOGIALED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TJ-S1005CL4T5ALC6B-A5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C917189"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TJ-S1005CL4T5ALC6B-A5"; VariantName = "[No Variations]"
+Added Component: Designator=LED3(LED0402-RD)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "TOGIALED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "TJ-S1005CL4T5ALC6B-A5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C917189"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "TJ-S1005CL4T5ALC6B-A5"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=LED1-1
+Added Pin To Net: NetName=GND Pin=LED2-1
+Added Pin To Net: NetName=GND Pin=LED3-1
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R38-1
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=R39-1
+Added Net: Name=NetLED2_2
+Added Pin To Net: NetName=NetLED3_2 Pin=LED3-2
+Added Pin To Net: NetName=NetLED3_2 Pin=R40-1
+Added Net: Name=NetLED3_2
+Added Member To Class: ClassName=core_pwr Member=Component C24 CAP-0402
+Added Member To Class: ClassName=core_pwr Member=Component C25 CAP-0402
+Added Member To Class: ClassName=core_pwr Member=Component C26 CAP-0402
+Added Member To Class: ClassName=core_pwr Member=Component C27 CAP-0402
+Added Member To Class: ClassName=core_pwr Member=Component C28 CAP-0402
+Added Member To Class: ClassName=core_pwr Member=Component C29 CAP-0402
+Added Member To Class: ClassName=core_pwr Member=Component C30 CAP-0402
+Added Member To Class: ClassName=core_pwr Member=Component C31 CAP-0402
+Added Member To Class: ClassName=core_pwr Member=Component C32 CAP-0402
+Added Member To Class: ClassName=core_pwr Member=Component C33 CAP-0402
+Added Member To Class: ClassName=core_pwr Member=Component C34 CAP-0402
+Added Member To Class: ClassName=core_pwr Member=Component C35 CAP-0402
+Added Member To Class: ClassName=core_pwr Member=Component C36 CAP-0402
+Added Member To Class: ClassName=core_pwr Member=Component C37 CAP-0402
+Added Member To Class: ClassName=core_app Member=Component C38 CAP-0402
+Added Member To Class: ClassName=core_app Member=Component C39 CAP-0402
+Added Member To Class: ClassName=power Member=Component C40 CAP-0402
+Added Member To Class: ClassName=power Member=Component C41 CAP-0402
+Added Member To Class: ClassName=power Member=Component C42 CAP-0402
+Added Member To Class: ClassName=power Member=Component C43 CAP-0402
+Added Member To Class: ClassName=power Member=Component C44 CAP-0402
+Added Member To Class: ClassName=power Member=Component C45 CAP-0402
+Added Member To Class: ClassName=power Member=Component C46 CAP-0402
+Added Member To Class: ClassName=power Member=Component C47 CAP-0402
+Added Member To Class: ClassName=peroherals Member=Component LED1 TJ-S1005CL4T5ALC6B-A5
+Added Member To Class: ClassName=peroherals Member=Component LED2 TJ-S1005CL4T5ALC6B-A5
+Added Member To Class: ClassName=peroherals Member=Component LED3 TJ-S1005CL4T5ALC6B-A5
+Added Member To Class: ClassName=core_pwr Member=Component R9 RES-0402
+Added Member To Class: ClassName=core_pwr Member=Component R10 RES-0402
+Added Member To Class: ClassName=core_pwr Member=Component R11 RES-0402
+Added Member To Class: ClassName=core_app Member=Component R12 RES-0402
+Added Member To Class: ClassName=core_app Member=Component R13 RES-0402
+Added Member To Class: ClassName=core_app Member=Component R14 RES-0402
+Added Member To Class: ClassName=core_app Member=Component R15 RES-0402
+Added Member To Class: ClassName=power Member=Component R16 RES-0402
+Added Member To Class: ClassName=power Member=Component R17 RES-0402
+Added Member To Class: ClassName=power Member=Component R18 RES-0402
+Added Member To Class: ClassName=power Member=Component R19 RES-0402
+Added Member To Class: ClassName=power Member=Component R20 RES-0402
+Added Member To Class: ClassName=power Member=Component R21 RES-0402
+Added Member To Class: ClassName=power Member=Component R22 RES-0402
+Added Member To Class: ClassName=power Member=Component R23 RES-0402
+Added Member To Class: ClassName=power Member=Component R24 RES-0402
+Added Member To Class: ClassName=power Member=Component R25 RES-0402
+Added Member To Class: ClassName=power Member=Component R26 RES-0402
+Added Member To Class: ClassName=power Member=Component R27 RES-0402
+Added Member To Class: ClassName=power Member=Component R28 RES-0402
+Added Member To Class: ClassName=power Member=Component R29 RES-0402
+Added Member To Class: ClassName=power Member=Component R30 RES-0402
+Added Member To Class: ClassName=conn Member=Component R31 RES-0402
+Added Member To Class: ClassName=conn Member=Component R32 RES-0402
+Added Member To Class: ClassName=conn Member=Component R33 RES-0402
+Added Member To Class: ClassName=conn Member=Component R34 RES-0402
+Added Member To Class: ClassName=peroherals Member=Component R35 RES-0402
+Added Member To Class: ClassName=peroherals Member=Component R36 RES-0402
+Added Member To Class: ClassName=peroherals Member=Component R37 RES-0402
+Added Member To Class: ClassName=peroherals Member=Component R38 RES-0402
+Added Member To Class: ClassName=peroherals Member=Component R39 RES-0402
+Added Member To Class: ClassName=peroherals Member=Component R40 RES-0402
+Added Room: Name=conn
+Added Room: Name=core_app
+Added Room: Name=core_pwr
+Added Room: Name=peroherals
+Added Room: Name=power

@@ -176,14 +176,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZAHHAHDD
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Iacrus\Design Rule Check - core.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for Icarus\Design Rule Check - core.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
